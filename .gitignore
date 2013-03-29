@@ -1,0 +1,3 @@
+tests/.fog
+Gemfile.lock
+pkg/*
