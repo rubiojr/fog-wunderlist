@@ -86,7 +86,7 @@ task.destroy
 
 ## Managing lists
 
-```
+```ruby
 # List all the lists (inbox isn't listed)
 service.lists.each do |list|
   pp list # =>
