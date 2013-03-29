@@ -3,9 +3,6 @@
 Fog provider to manage www.wunderlist.com tasks using the familiar
 [Fog](http://fog.io) interface.
 
-The Wunderlist Fog provider was created to prove myself that creating 
-an isolated Fog provider without modifying Fog itself is possible nowadays.
-
 The provider is fully functional an only depends on Fog. Note that
 Wunderlist does not provide a public API so the API might change at
 any time breaking this library.
